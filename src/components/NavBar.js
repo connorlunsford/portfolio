@@ -4,7 +4,7 @@ class NavBar extends React.Component {
     render () {
         return (
             <div className="NavBar">
-                <img src="/public/profile.png" className="ProfilePicture" alt="Profile"/>
+                <img src="https://github.com/connorlunsford/portfolio/blob/master/public/profile.png?raw=true" className="ProfilePicture" alt="Profile"/>
                 <ul className="NavBarList">
                     <li className="NavItem"><a href="#Header" className="NavLink">ABOUT</a></li>
                     <li className="NavItem"><a href="#Experience"className="NavLink">EXPERIENCE</a></li>

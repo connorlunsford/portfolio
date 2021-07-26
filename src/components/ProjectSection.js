@@ -8,7 +8,7 @@ class ProjectSection extends React.Component {
                 <a href={this.props.link}>
                     <img 
                         className="githubLink" 
-                        src='./public/github-logo.png' 
+                        src='https://github.com/connorlunsford/portfolio/blob/master/public/github-logo.png?raw=true' 
                         alt='github' 
                         style={{display: 'inline-block', float: 'right'}}
                     />

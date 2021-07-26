@@ -16,10 +16,10 @@ class Header extends React.Component {
                 </p>
                 <div className="socialIcons">
                     <a href="https://www.linkedin.com/in/connor-lunsford/">
-                        <img className="socialIcon" src='./public/linkedin-logo.png' alt='linkedin'/>
+                        <img className="socialIcon" src='https://github.com/connorlunsford/portfolio/blob/master/public/linkedin-logo.png?raw=true' alt='linkedin'/>
                     </a>
                     <a href="https://github.com/connorlunsford">
-                        <img className="socialIcon" src='./public/github-logo.png' alt='github'/>
+                        <img className="socialIcon" src='https://github.com/connorlunsford/portfolio/blob/master/public/github-logo.png?raw=true' alt='github'/>
                     </a>
                 </div>
             </div>
