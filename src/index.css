@@ -242,7 +242,7 @@ p {
 
   .projectHeading, .experienceHeading, .educationHeading, .githubLink, .minors {
     display: block;
-    float: left;
+    float: none;
   }
 
 }
