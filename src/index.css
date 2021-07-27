@@ -123,8 +123,9 @@ p {
   margin: 0;
   font-weight: bold;
   font-family: Saira Extra Condensed;
-  font-size: 3rem;
+  font-size: 2rem;
   padding: 10px;
+  line-height: 100%;
 }
 
 .NavLink {
