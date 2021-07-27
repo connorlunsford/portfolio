@@ -222,7 +222,8 @@ p {
 @media screen and (max-width: 800px) {
 
   body {
-    padding-left: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
   }
 
   .ProfilePicture {
@@ -235,6 +236,12 @@ p {
   
   .NavBar, .ProfilePicture, .NavBarList, .NavItem, .NavLink {
     visibility: hidden;
+  }
+
+  .skillSection {
+    width: 33%;
+    display: block;
+    text-align: center;
   }
 
 }
