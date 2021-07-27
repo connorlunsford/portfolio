@@ -222,8 +222,8 @@ p {
 @media screen and (max-width: 800px) {
 
   body {
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
   }
 
   .sectionDiv {
@@ -238,6 +238,11 @@ p {
     width: 100%;
     display: block;
     text-align: center;
+  }
+
+  .projectHeading, .experienceHeading, .educationHeading, .githubLink, .minors {
+    display: block;
+    float: left;
   }
 
 }

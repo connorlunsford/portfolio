@@ -5,9 +5,9 @@ class EducationSection extends React.Component {
         if (this.props.minors) {
             return (
                 <div className='lowerSection'>
-                    <h3>{this.props.school}</h3>
-                    <h4 style={{display: 'inline-block'}}>{this.props.degree}</h4>
-                    <h5 style={{display: 'inline-block', float: 'right'}}>{this.props.date}</h5>
+                    <h3 className='educationHeading'>{this.props.school}</h3>
+                    <h4 style={{display: 'inline-block'}} className='educationHeading'>{this.props.degree}</h4>
+                    <h5 style={{display: 'inline-block', float: 'right'}} className='educationHeading'>{this.props.date}</h5>
                     <p className='minors'>{this.props.minors}</p>
                 </div>
             )
@@ -15,9 +15,9 @@ class EducationSection extends React.Component {
         else {
             return (
                 <div className='lowerSection'>
-                    <h3>{this.props.school}</h3>
-                    <h4 style={{display: 'inline-block'}}>{this.props.degree}</h4>
-                    <h5 style={{display: 'inline-block', float: 'right'}}>{this.props.date}</h5>
+                    <h3 className='educationHeading'>{this.props.school}</h3>
+                    <h4 style={{display: 'inline-block'}} className='educationHeading'>{this.props.degree}</h4>
+                    <h5 style={{display: 'inline-block', float: 'right'}} className='educationHeading'>{this.props.date}</h5>
                 </div>
             )
         }
