@@ -222,16 +222,12 @@ p {
 @media screen and (max-width: 800px) {
 
   body {
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 5%;
+    padding-right: 5%;
   }
 
-  .ProfilePicture {
-    width: 70%;
-    margin: 15%;
-    border-radius: 50%;
-    border: solid 5px;
-    border-color: #8ea2b8;
+  .sectionDiv {
+    width: 100%;
   }
   
   .NavBar, .ProfilePicture, .NavBarList, .NavItem, .NavLink {
@@ -239,7 +235,7 @@ p {
   }
 
   .skillSection {
-    width: 33%;
+    width: 100%;
     display: block;
     text-align: center;
   }
