@@ -216,3 +216,25 @@ p {
   display: inline-block;
   margin-top: 2.5px;
 }
+
+/* FOR MOBILE */
+
+@media screen and (max-width: 800px) {
+
+  body {
+    padding-left: 0px;
+  }
+
+  .ProfilePicture {
+    width: 70%;
+    margin: 15%;
+    border-radius: 50%;
+    border: solid 5px;
+    border-color: #8ea2b8;
+  }
+  
+  .NavBar, .ProfilePicture, .NavBarList, .NavItem, .NavLink {
+    visibility: hidden;
+  }
+
+}
