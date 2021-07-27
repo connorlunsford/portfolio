@@ -170,6 +170,7 @@ p {
 .githubLink {
   width: 40px;
   height: 40px;
+  float: right;
 }
 
 .ToDoP {
@@ -188,6 +189,10 @@ p {
 
 .ToDoDiv {
   border-bottom: 1px solid gray;
+}
+
+.projectDate {
+  float: right;
 }
 
 
@@ -240,7 +245,7 @@ p {
     text-align: center;
   }
 
-  .projectHeading, .experienceHeading, .educationHeading, .githubLink, .minors {
+  .projectHeading, .experienceHeading, .educationHeading, .githubLink, .minors, .projectDate {
     display: block;
     float: none;
   }
