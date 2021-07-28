@@ -212,14 +212,14 @@ p {
 }
 
 .skillName {
-  margin-right: 5%;
-  width: 50%;
+  margin-right: 2.5%;
+  width: 40%;
   font-size: 2vw;
 }
 
 .skillBar {
-  height: 2vw;
-  width: 2vw;
+  height: 1.5vw;
+  width: 1.5vw;
   display: inline-block;
   margin-top: 2.5px;
 }
