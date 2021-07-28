@@ -77,7 +77,7 @@ h6 {
   padding-bottom: 300px;
   border-bottom: solid 1px;
   border-color: gray;
-  width: 70%;
+  width: 80%;
 }
 
 p {
@@ -213,7 +213,7 @@ p {
 
 .skillName {
   margin-right: 2.5%;
-  width: 40%;
+  width: 45%;
   font-size: 2vw;
 }
 
@@ -245,6 +245,15 @@ p {
     width: 100%;
     display: block;
     text-align: center;
+  }
+
+  .skillName {
+    font-size: 3vw;
+  }
+
+  .skillBar {
+    height: 3vw;
+    width: 3vw;
   }
 
   .projectHeading, .experienceHeading, .educationHeading, .githubLink, .minors, .projectDate {
