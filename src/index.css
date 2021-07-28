@@ -218,7 +218,8 @@ p {
 }
 
 .skillBar {
-  width: 10%;
+  height: 2vw;
+  width: 2vw;
   display: inline-block;
   margin-top: 2.5px;
 }
