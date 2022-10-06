@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.191bb0a4.chunk.css",
+    "main.css": "/portfolio/static/css/main.78cf9a72.chunk.css",
     "main.js": "/portfolio/static/js/main.fa12ed2d.chunk.js",
     "main.js.map": "/portfolio/static/js/main.fa12ed2d.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.8373c21c.js",
@@ -8,14 +8,14 @@
     "static/js/2.f39e9ce1.chunk.js": "/portfolio/static/js/2.f39e9ce1.chunk.js",
     "static/js/2.f39e9ce1.chunk.js.map": "/portfolio/static/js/2.f39e9ce1.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.191bb0a4.chunk.css.map": "/portfolio/static/css/main.191bb0a4.chunk.css.map",
+    "static/css/main.78cf9a72.chunk.css.map": "/portfolio/static/css/main.78cf9a72.chunk.css.map",
     "static/js/2.f39e9ce1.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f39e9ce1.chunk.js.LICENSE.txt",
     "static/media/ConnorLunsfordResume.03d415a6.pdf": "/portfolio/static/media/ConnorLunsfordResume.03d415a6.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.8373c21c.js",
     "static/js/2.f39e9ce1.chunk.js",
-    "static/css/main.191bb0a4.chunk.css",
+    "static/css/main.78cf9a72.chunk.css",
     "static/js/main.fa12ed2d.chunk.js"
   ]
 }
