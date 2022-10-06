@@ -29,7 +29,7 @@ class Projects extends React.Component {
                     current game that is hosted in the repository Death by Digital Detox, which is a murder mystery that 
                     allows you to speak to characters in order to gather more evidence to find the killer. The system uses 
                     a natural language parser in order to allow for realistic text input for the user to interact with the game.'
-                    images={["TextBasedAdventureGame01.PNG"]}
+                    images={["TextBasedAdventureGame.png"]}
                 />
                 <ProjectSection 
                     title='SMALLSH'
@@ -51,7 +51,7 @@ class Projects extends React.Component {
                     It has full implementation of a server using Javascript and Node.js, 
                     as well as a full front-end application for managing the database. The website allows the user to 
                     view all entities, insert a new entry into the database, update an entry, and delete entries.'
-                    images={["ClearCreekZoo01.PNG, ClearCreekZoo02.PNG, ClearCreekZoo03.PNG,"]}
+                    images={["ClearCreekZoo01.png", "ClearCreekZoo02.png", "ClearCreekZoo03.png"]}
                 />
                 <ProjectSection 
                     title='REACT PORTFOLIO'
