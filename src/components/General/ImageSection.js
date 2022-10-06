@@ -7,7 +7,7 @@ class ImageSection extends React.Component {
                 <img 
                     src={`https://raw.githubusercontent.com/connorlunsford/portfolio/master/public/project_images/${imageSrc}`}
                     alt={imageSrc}
-                    style={{width: '1200px'}}
+                    className={"projectImage"}
                 />
             )
         })
