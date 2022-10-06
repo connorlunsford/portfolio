@@ -17,18 +17,7 @@ class Projects extends React.Component {
                     animals within the game Planet Zoo that share a compatibility rating. It does this using a custom made 
                     algorithm which recursively searches a compatibility matrix to discover every possible combination of 
                     animals that have a certain compatibility rating or above with one another.'
-                    images={["PlanetZooCompatibilityFinder01.png", "PlanetZooCompatibilityFinder01.png"]}
-                />
-                <ProjectSection 
-                    title='CLEAR CREEK ZOO MANAGEMENT APP'
-                    type='PERSONAL PROJECT'
-                    link='https://github.com/connorlunsford/clear-creek-zoo'
-                    date='January 2021'
-                    desc='Clear Creek Zoo is a website and database for managing a fictional zoo in the pacific northwest. 
-                    It has full implementation of a server using Javascript and Node.js, 
-                    as well as a full front-end application for managing the database. The website allows the user to 
-                    view all entities, insert a new entry into the database, update an entry, and delete entries.'
-                    images={[]}
+                    images={["PlanetZooCompatibilityFinder01.PNG", "PlanetZooCompatibilityFinder02.PNG"]}
                 />
                 <ProjectSection 
                     title='TEXT-BASED ADVENTURE GAME'
@@ -40,7 +29,7 @@ class Projects extends React.Component {
                     current game that is hosted in the repository Death by Digital Detox, which is a murder mystery that 
                     allows you to speak to characters in order to gather more evidence to find the killer. The system uses 
                     a natural language parser in order to allow for realistic text input for the user to interact with the game.'
-                    images={[]}
+                    images={["TextBasedAdventureGame01.PNG"]}
                 />
                 <ProjectSection 
                     title='SMALLSH'
@@ -52,6 +41,17 @@ class Projects extends React.Component {
                     can run commands in the background using &, and it expands $$ into the process id. It demonstrates 
                     understanding of the C library and concepts.'
                     images={[]}
+                />
+                <ProjectSection 
+                    title='CLEAR CREEK ZOO MANAGEMENT APP'
+                    type='PERSONAL PROJECT'
+                    link='https://github.com/connorlunsford/clear-creek-zoo'
+                    date='January 2021'
+                    desc='Clear Creek Zoo is a website and database for managing a fictional zoo in the pacific northwest. 
+                    It has full implementation of a server using Javascript and Node.js, 
+                    as well as a full front-end application for managing the database. The website allows the user to 
+                    view all entities, insert a new entry into the database, update an entry, and delete entries.'
+                    images={["ClearCreekZoo01.PNG, ClearCreekZoo02.PNG, ClearCreekZoo03.PNG,"]}
                 />
                 <ProjectSection 
                     title='REACT PORTFOLIO'

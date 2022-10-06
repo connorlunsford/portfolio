@@ -5,8 +5,9 @@ class ImageSection extends React.Component {
         return this.props.images.map((imageSrc) => {
             return (
                 <img 
-                    src={`https://github.com/connorlunsford/portfolio/blob/master/public/project_images/${imageSrc}`}
+                    src={`https://raw.githubusercontent.com/connorlunsford/portfolio/master/public/project_images/${imageSrc}`}
                     alt={imageSrc}
+                    style={{width: '1200px'}}
                 />
             )
         })
