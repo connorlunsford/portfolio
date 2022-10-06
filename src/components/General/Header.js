@@ -1,5 +1,5 @@
 import React from 'react';
-import resume from '../ConnorLunsfordResume.pdf'
+import resume from '../../ConnorLunsfordResume.pdf'
 
 class Header extends React.Component {
     render () {
@@ -11,8 +11,8 @@ class Header extends React.Component {
                 <h4><a href={resume}>RESUME</a></h4>
                 <br/>
                 <p className="headerText">
-                    I am an Oregon State University Computer Science student proficient in Python, Javascript, and C. 
-                    Currently I am searching for a career as a software developer at a Seattle area company. 
+                    I am a Software Developer with 1.5 years of experience proficient in Python, Javascript, and React. 
+                    Currently I am searching for a career as a software developer at a Seattle area or remote company. 
                     If you have an questions please feel free to contact me through phone or email with the information provided above.
                 </p>
                 <div className="socialIcons">
