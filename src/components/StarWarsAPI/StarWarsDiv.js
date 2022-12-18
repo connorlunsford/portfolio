@@ -1,5 +1,5 @@
 import React from 'react'
-import StarWarsRouter from './StarWarsRouter'
+import StarWarsData from './StarWarsData'
 
 class StarWarsDiv extends React.Component {
     constructor () {
@@ -57,7 +57,7 @@ class StarWarsDiv extends React.Component {
                         <input type='number' placeholder='ID NUMBER' onChange={this.handleChange} name="id"></input>
                     </form>
                     <button onClick={this.loadData}>Submit</button>
-                    <StarWarsRouter data={this.state.data} target={this.state.type} />
+                    <StarWarsData data={this.state.data} type={this.state.type}/>
                 </div>
             )
         }

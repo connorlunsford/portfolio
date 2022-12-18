@@ -6,7 +6,7 @@ class Experience extends React.Component {
         return (
             <div className="sectionDiv" id="Experience">
                 <h2>EXPERIENCE</h2>
-                <ExperienceSection 
+                <ExperienceSection
                     title='SOFTWARE DEVELOPER IN THE ROTATION PROGRAM'
                     date='October 2021 - October 2022'
                     employer='DOCUSIGN'

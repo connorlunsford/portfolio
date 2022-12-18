@@ -196,6 +196,10 @@ p {
   float: right;
 }
 
+.projectImage {
+  width: 65vw;
+}
+
 
 /* EDUCATION */
 
@@ -248,17 +252,21 @@ p {
   }
 
   .skillName {
-    font-size: 3vw;
+    font-size: 8vw;
   }
 
   .skillBar {
-    height: 3vw;
-    width: 3vw;
+    height: 8vw;
+    width: 8vw;
   }
 
   .projectHeading, .experienceHeading, .educationHeading, .githubLink, .minors, .projectDate {
     display: block;
     float: none;
+  }
+
+  .projectImage {
+    width: 100vw;
   }
 
 }
