@@ -1,7 +1,7 @@
 import React from 'react';
 import ProjectSection from './ProjectSection';
-import ToDoList from './ToDoList';
-import StarWarsDiv from './StarWarsDiv';
+import ToDoList from './ToDoList/ToDoList';
+import StarWarsDiv from './StarWarsAPI/StarWarsDiv';
 
 class Projects extends React.Component {
     render () {

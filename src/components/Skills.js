@@ -12,7 +12,11 @@ class Skills extends React.Component {
                     skillLevel='5'
                 />
                 <Skill 
-                    name='Javascript'
+                    name='JavaScript'
+                    skillLevel='4'
+                />
+                <Skill 
+                    name='TypeScript'
                     skillLevel='4'
                 />
                 <Skill 
@@ -21,6 +25,10 @@ class Skills extends React.Component {
                 />
                 <Skill 
                     name='React.js'
+                    skillLevel='4'
+                />
+                <Skill 
+                    name='Redux'
                     skillLevel='3'
                 />
                 <Skill 
@@ -49,14 +57,6 @@ class Skills extends React.Component {
                 />
                 <Skill 
                     name='Terraform'
-                    skillLevel='1'
-                />
-                <Skill 
-                    name='Flutter'
-                    skillLevel='1'
-                />
-                <Skill 
-                    name='Android SDK'
                     skillLevel='1'
                 />
                 <Skill 
